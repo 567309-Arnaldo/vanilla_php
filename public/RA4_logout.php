@@ -24,3 +24,4 @@ declare(strict_types=1);
 
  header('Location: RA4_login.php', true, 303);
 exit;
+
